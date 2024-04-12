@@ -1,0 +1,4 @@
+sylius_mailer:
+    sender:
+        name: Ma LingeriedAmour
+        address: no-reply@malingeriedamour.shop
