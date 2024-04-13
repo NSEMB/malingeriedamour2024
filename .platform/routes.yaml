@@ -1,7 +1,7 @@
-"https://{default}/":
+"https://malingeriedamour.shop/":
     type: upstream
-    upstream: "app:http"
+    upstream: "MalingeriedAmour:http"
 
-"https://www.{default}/":
+"https://www.malingeriedamour.shop/":
     type: redirect
-    to: "https://{default}/"
+    to: "https://malingeriedamour.shop/"
