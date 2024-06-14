@@ -26,7 +26,7 @@
         "monsieurbiz/sylius-admin-better-login-plugin": "^2.0",
         "novalnet/sylius-novalnet-payment-plugin": "^1.0",
         "odiseoteam/sylius-banner-plugin": "^1.3",
-        "stripe/stripe-php": "^13.17",
+        "stripe/stripe-php": "^14.10",
         "sylius/mailer-bundle": "^2.0",
         "sylius/paypal-plugin": "^1.5",
         "sylius/sylius": "^1.12.11",
